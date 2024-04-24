@@ -5,4 +5,4 @@
 
 ## 目次
 ### テーマ別
-- [ドラグマ](Dogmatika/summary)
+- [ドラグマ](Dogmatika/summary.md)
