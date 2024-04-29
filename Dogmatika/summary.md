@@ -30,7 +30,8 @@
 - サーチに依存しているため、「超雷龍－サンダー・ドラゴン」や「ドロール＆ロックバード」に弱い
 
 ## カード一覧
-- [テーマ内のカード](./themeMonsterCards.md)
+- [モンスター](./themeMonsterCards.md)
+- [魔法・罠](./themeSpellAndTrapCards.md)
 - [相性の良いカード](./cardsOther.md)
 
 ## 回し方

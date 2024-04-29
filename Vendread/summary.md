@@ -27,7 +27,7 @@
 
 ## カード一覧
 - [モンスター](./themeMonsterCards.md)
-- [魔法・罠](./themeMonsterCards.md)
+- [魔法・罠](./themeSpellAndTrapCards.md)
 - [相性の良いカード](./cardsOther.md)
 
 ## 回し方
