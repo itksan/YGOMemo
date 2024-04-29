@@ -35,4 +35,4 @@
 - [相性の良いカード](./cardsOther.md)
 
 ## 回し方
-- [基本的な展開](basicUsage.md)
+- [基本的な使い方](basicUsage.md)
